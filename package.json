@@ -18,7 +18,7 @@
     "url": "git://github.com/yeoman/generator-mocha.git"
   },
   "scripts": {
-    "test": "mocha --reporter spec"
+    "test": "mocha --reporter spec lib/"
   },
   "dependencies": {
     "yeoman-generator": "~0.13.0"
